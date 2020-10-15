@@ -1,8 +1,8 @@
 /*
- *  Simple hello world Json REST response
-  *  by Mischianti Renzo <https://www.mischianti.org>
+ *  ESP32 Light Controller
+ *  by Cristian Malita
  *
- *  https://www.mischianti.org/
+ * 
  *
  */
  
